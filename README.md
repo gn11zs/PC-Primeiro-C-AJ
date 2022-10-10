@@ -7,13 +7,13 @@
     <body></html>
 19
 < html >
-20
+20s
 < h1 > meu primeiro arquivo no meu primeiro. </ h1 >
 21
 </ html >
         <h1>Sobre a loja de tenis</h1>
 
-        <p>Localizada no coração da cidade a <strong>loja de tenis</strong> traz para o mercado o que há de melhor para o seu estilo. 
+        <p>Localizada no coração da cidade a <strong> loja de tenis </strong> traz para o mercado o que há de melhor para o seu estilo. 
         Fundada em 2022, a loja de tenis já é destaque na cidade e conquista novos clientes a cada dia.</p>
 
         <p><em>Nossa missão é: <strong>"Proporcionar auto-estima e qualidade de vida aos clientes"</strong>.</em></p>
@@ -29,3 +29,4 @@
 < h1 > meu primeiro arquivo no meu primeiro. </ h1 >
 21
 </ html >
+s
